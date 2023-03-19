@@ -10,3 +10,5 @@ This project contains X++ code to show the usage of SysComputedColumn class meth
 8) Show the usage of "Null" expression of SysComputedColumn - DataEntity: DAXCustHistoryTransEntity and method: computeColumnDateDiffNull
 9) Show the usage of comparison expression list of SysComputedColumn - View: DAXCustVendExternalItem and method: computeColumnModuleType
 10) Show the usage of cast operation of SysComputedColumn - View: DAXPurchAgreementDetails and method: computeCreatedDate
+11) Show the usage of count method of SysComputedColumn - View: DAXCustomerTransCount  and method: computedTransCountStr
+12) Show the usage of getDateDiff method of SysComputedColumn - DataEntity: DAXCustHistoryTransEntity  and method: computeColumnDateDiff
