@@ -16,3 +16,4 @@ This project contains X++ code to show the usage of SysComputedColumn class meth
 14) Show the usage of not equal expression of SysComputedColumn - View: DAXPurchAgreementDetails and method: computeDeliveryDate
 15) Show the usage of compare expression of SysComputedColumn - View: DAXPurchAgreementDetails and method: computeDateofDelivery
 16) Show the usage of SysComputedColumn with a if loop - Entity: DAXCustHistoryTransEntity and method: computedAmountDueStr 
+17) Show the usage of SysComputedColumn with a if loop & and condition - Entity: DAXCustHistoryTransEntity and method: computeSelectiveCust 
