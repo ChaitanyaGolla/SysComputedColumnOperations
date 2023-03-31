@@ -16,4 +16,8 @@ This project contains X++ code to show the usage of SysComputedColumn class meth
 14) Show the usage of not equal expression of SysComputedColumn - View: DAXPurchAgreementDetails and method: computeDeliveryDate
 15) Show the usage of compare expression of SysComputedColumn - View: DAXPurchAgreementDetails and method: computeDateofDelivery
 16) Show the usage of SysComputedColumn with a if loop - Entity: DAXCustHistoryTransEntity and method: computedAmountDueStr 
-17) Show the usage of SysComputedColumn with a if loop & and condition - Entity: DAXCustHistoryTransEntity and method: computeSelectiveCust 
+17) Show the usage of SysComputedColumn with a if loop & and condition - Entity: DAXCustHistoryTransEntity and method: computeSelectiveCust
+18) Show the usage of addList method of SysComputedColumn - View: DAXSalesInvoiceHeaders and method: computeTotalDiscountAmount
+19) Show the usage of switch method of SysComputedColumn - View: DAXCustomerTrans and method: computedTransType
+20) Show the usage of if condition and cast method of SysComputedColumn - View: DAXCustomerTrans and method: computeTransAmount
+21) Show the usage of max method of SysComputedColumn - View: DAXCustomerTrans and method: computeMaxAmount
