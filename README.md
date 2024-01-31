@@ -21,3 +21,6 @@ This project contains X++ code to show the usage of SysComputedColumn class meth
 19) Show the usage of switch method of SysComputedColumn - View: DAXCustomerTrans and method: computedTransType
 20) Show the usage of if condition and cast method of SysComputedColumn - View: DAXCustomerTrans and method: computeTransAmount
 21) Show the usage of max method of SysComputedColumn - View: DAXCustomerTrans and method: computeMaxAmount
+22) Show the usage of absolute method of SysComputedColumn - View: DAXCustomerTransMeasures and method: computeAbsValue
+23) Show the usage of aggregate method "Sum" of SysComputedColumn - View: DAXCustomerTransMeasures and method: computeBalance
+24) Using SyscomputedColumn to compare dates and display the max value - View: DAXPurchAgreementDetails and method: getMaxDate
